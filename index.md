@@ -6,4 +6,4 @@ title: Home
 This is a test.
 
 ## Files
-- ![The File](test.qmd)
+- [The File](test.qmd)
